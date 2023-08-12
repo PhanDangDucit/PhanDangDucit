@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span>Hi there!</span>
-<br>
-<a>I'm Duc</a>
-
+<span style="background-color: red">Hi there!</span>
+<a style="font-weight:bold">I'm Duc</a>
