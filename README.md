@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <span style="background-color: red">Hi there!</span>
-<a style="font-weight:bold">I'm Duc</a>
+## I'm Duc
+
