@@ -18,3 +18,5 @@
 2. The original Web of ExpressJS - [https://expressjs.com/](https://expressjs.com/)
 
 3. F8 - [Node JS & ExpressJS](https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3)
+
+4. Hoidanit - [Nodejs](https://www.youtube.com/@hoidanit)
