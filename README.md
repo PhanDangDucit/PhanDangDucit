@@ -9,7 +9,9 @@
 <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-tailwind-black?style=flat-square&logo=tailwind"/>
-  
+<img src="https://img.shields.io/badge/-sacc-black?style=flat-square&logo=sass"/>
+<img src="https://img.shields.io/badge/-bootstrap-black?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux"/>
 </p>
 <h2 align="center"> Web sites which I learned Backend are helpful for you!
 <img src="https://cdn.pixabay.com/animation/2022/10/25/09/28/09-28-24-855_512.gif" width="60"></h2>
