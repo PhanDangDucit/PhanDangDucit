@@ -1,4 +1,4 @@
-### I'm Duc. I'm a web developer! 👍
+# I'm Duc. I'm a web developer! 👍
 <h2 align="center"> Reach me on <img src="https://cdn.pixabay.com/animation/2022/08/22/11/10/11-10-32-625_256.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -24,3 +24,10 @@
 3. F8 - [Node JS & ExpressJS](https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3)
 
 4. Hoidanit - [Nodejs](https://www.youtube.com/@hoidanit)
+
+## Project
+### Fullstack (NodeJS, React)
+- [Study_app: Tailwind, NodeJS(ExpressJS), MongoDB, ReactJS, Redux](https://github.com/PhanDangDucit/study_app.git)
+- [E_commerce: NodeJS(expressjs), React, Redux, Redis, Mysql](https://github.com/PhanDangDucit/BSTORE-react-expressjs.git)
+### Php
+- [Bstore_php](https://github.com/PhanDangDucit/BSTORE-php-dao.git)
